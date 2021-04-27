@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">github-repo-search</string>
+    <string name="str_search_a_repo">Search a repository</string>
+    <string name="str_github_repository_search">GitHub Repository Search</string>
+    <string name="str_start_searching_msg">Start searching by\nclicking on the search bar</string>
+
+    <string name="str_genre">Genre</string>
+    <string name="str_artist">Artist</string>
+</resources>
